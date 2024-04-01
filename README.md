@@ -35,12 +35,3 @@ Our mission is to:
    - **Deep Learning Models:** Implementation of Neural Networks to predict SO2 levels and AQI categories.
 4. **Evaluation:** Comparison of model performances using accuracy metrics, determining the best models for air quality forecasting.
 5. **Insights and Recommendations:** Drawing conclusions from the analysis and suggesting actionable strategies for air quality improvement.
-
-## Getting Started
-
-### Prerequisites
-
-Ensure you have Python installed along with Jupyter Notebook. The required libraries can be installed using pip:
-
-```bash
-pip install numpy pandas seaborn tensorflow keras
